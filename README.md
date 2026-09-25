@@ -12,7 +12,7 @@ Asegurar la consistencia matemática y la atomicidad en las transacciones de fon
 - **Consultas Optimizadas:** Consultas SQL estructuradas con `JOINs` para generar historiales de transacciones detallados en tiempo real.
 
 ## ⚙️ Tecnologías Utilizadas
-- **Lenguaje Principal:** Java / Python
+- **Lenguaje Principal:** JavaScript
 - **Base de Datos:** MySQL / PostgreSQL
 - **Herramientas:** DBeaver, Git & GitHub
 
